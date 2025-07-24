@@ -40,3 +40,5 @@ Since GitHub limits file upload size, the simulation archive is hosted on Google
 ## Author
 
 Mehmet Sabri Aksoy
+
+Feel free to connect on LinkedIn(https://www.linkedin.com/in/mehmet-sabri-aksoy/) or message me if you want to collaborate or have feedback!
